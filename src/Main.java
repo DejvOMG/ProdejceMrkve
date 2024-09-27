@@ -10,3 +10,6 @@ public class Main {
         System.out.println(seller1.adrress);
         System.out.println(seller2.name);
         System.out.println(seller2.adrress);
+
+    }
+}
