@@ -1,5 +1,10 @@
-public class Main {
-    private String name;
-    private String adrress;
-    
+public class Seller {
+    String name;
+    String adrress;
+
+
+    public Seller(String name, String adrress) {
+        this.name = name;
+        this.adrress = adrress;
+    }
 }
